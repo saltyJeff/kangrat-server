@@ -1,0 +1,29 @@
+{
+  "name": "kangrat-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "dependencies": {
+    "mongoose": "^4.12.0",
+    "source-map-support": "^0.5.0",
+    "typegoose": "^3.4.7",
+    "typescript": "^2.5.3"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltyJeff/kangrat-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saltyJeff/kangrat-server/issues"
+  },
+  "homepage": "https://github.com/saltyJeff/kangrat-server#readme"
+}
